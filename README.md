@@ -233,7 +233,7 @@ footer{
     <h2>📞 Liên Hệ</h2>
     <p><b>Lại Thị Thuý Hà</b> – STT: 10 – Lớp 12.9</p>
     <p><b>Lê Thị Phương Nhi</b> – STT: 27 – Lớp 12.9</p>
-    <p><b>Đỗ Thành Nhân </b> – STT: 27 – Lớp 12.9</p>
+    <p><b>Đỗ Thành Nhân </b> – STT: 26 – Lớp 12.9</p>
     <p><b>Nguyễn Duy Mạnh</b> – STT: 20 – Lớp 12.9</p>
     <p>Email: thpthuynhvannghe@gmail.com</p>
   </div>
